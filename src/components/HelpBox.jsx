@@ -12,6 +12,7 @@ function HelpBox({ title, text }) {
 }
 
 // added an important comment !
+// ein sehr wichtiger Kommentar hinzugefügt !
 
 HelpBox.propTypes = {
   title: string,
